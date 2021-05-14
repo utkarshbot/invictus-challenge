@@ -44,7 +44,7 @@ Request ```$ npm install request```
 
 
 
-In wordCounter function the text received from the url is stored in text and then split after each white space
+In Counter function the text received from the url is stored in text and then split after each white space
 and stored in wordArray. Count of words is determined by checking if wordPool.hasOwnProperty.
 Then they are stored in wordCount which is an array of objects. This array is sorted and returns as many top results
 as requested from the frontend.
