@@ -11,7 +11,13 @@
 ```$ npm install```
 
 ```$ npm start```
- 
+
+## Packages Needed - 
+
+Express ```$ npm install express```
+
+Request ```$ npm install request```
+
 
 ## Code Components:
 
@@ -72,4 +78,14 @@ Fetch  from /data from the React Functional Component and shows Loading while th
 ## List of Words on Entering valid Input - 
 ![Screenshot (421)](https://user-images.githubusercontent.com/56169246/118292908-c1203500-b4f6-11eb-9bbb-f7665ed8d39d.png)
 
-## 
+## List clears itself on clearing input feild or on clicking Reset Button -
+![Screenshot (422)](https://user-images.githubusercontent.com/56169246/118299547-83270f00-b4fe-11eb-9cc1-e551bde82186.png)
+
+# Responsiveness - 
+![Screenshot (427)](https://user-images.githubusercontent.com/56169246/118299652-a356ce00-b4fe-11eb-9e0a-aa00817eec08.png)
+![Screenshot (424)](https://user-images.githubusercontent.com/56169246/118299655-a3ef6480-b4fe-11eb-8c0b-8ccf2810ce13.png)
+![Screenshot (425)](https://user-images.githubusercontent.com/56169246/118299644-a18d0a80-b4fe-11eb-95da-6077bcabf84a.png)
+![Screenshot (426)](https://user-images.githubusercontent.com/56169246/118299650-a2be3780-b4fe-11eb-9b43-9143fbbcb83f.png)
+
+
+
