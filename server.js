@@ -3,6 +3,8 @@ const request = require('request')
 const path = require('path')
 const app = express()
 
+const PORT = process.env.PORT || 5000
+
 function Counter(url, callback) {
     request(url, (err, res, text) => {
         if (err) throw err
