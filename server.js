@@ -45,6 +45,5 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'client', 'build', 'index.html'))
 })
 
-const PORT = 5000
 
 app.listen(PORT, () => console.log(`Server Running at ${PORT}`))
